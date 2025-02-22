@@ -41,8 +41,8 @@
   <div class="register">
     <div class="register2">
       <div class="rectangle-1"></div>
-      <img class="lvd-1" src="lvd-10.png" />
-      <img class="vote-1" src="vote-10.png" />
+      <img class="lvd-1" src="lvd-10.png" alt="LVD logo" />
+      <img class="vote-1" src="vote-10.png" alt="Vote logo" />
       <div class="be-a-part-of-decision">Be a Part of decision</div>
       <div class="vote-today">VOTE TODAY</div>
       <div class="organization">ORGANIZATION</div>
